@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Engineering, University of New Mexico, Albuquerque NM. - 2025 (expected)
+* B.S. in Electronics and Communication Engineering, BRAC University, Bangladesh. - 2021
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2022 – Present: Research Assistant (University of New Mexico)
+  * Research Interests: 
+    - Fail Safe Implementation, Quantum Computing, Wireless Communication for 6G and Beyond.
+* Feb. 2021 – Dec 2021: Lecturer, Department of CSE (Global University Bangladesh)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Technical Proficency
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Python, C, C++, MATLAB, Reinforcement Learning, Optimization.
+*	LTE, WiMAX, IP Telephony, Routing and Switching, NetSim, Proteus, Multisim, Arduino, FPGAs, VHDL, Vivado Suite, Linux.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Coordinator, First year advising team (FYAT), BRAC University Bangladesh (Jan. 2017-Dec. 2020)
+* Founder Chair- IEEE Communication Society Chapter Student Branch, BRAC University (Apr. 2018)
+* Best Athlete- BRAC University Carnival (2019)
