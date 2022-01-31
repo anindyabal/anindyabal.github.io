@@ -3,7 +3,7 @@ title: "Teaching Experience"
 collection: teaching
 type: "Former Lecturer, Computer Science and Engineering"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Global University Bangladesh"
+venue: <a href="https://globaluniversity.edu.bd/cse-department/" target="_blank">"Global University Bangladesh"</a>
 date: 02/02/2021 to 12/31/2021
 location: "Barisal, Bangladesh"
 ---
