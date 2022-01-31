@@ -84,11 +84,11 @@ author:
   avatar           : "https://anindyabal.github.io/images/11223344.jpg"  
   bio              : "Ph.D. Student in Computer Engineering at the University of New Mexico, NM, USA."
   location         : "Albuquerque, New Mexico, USA"
-  employer         : "University of New Mexico"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Research Assistant, ECE, University of New Mexico"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=0XND5mMAAAAJ&hl=en&oi=ao"
   email            : "anindya@unm.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Anindya-Bal"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "anindyabal"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://bd.linkedin.com/in/anindya-bal-652a811a4"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
