@@ -12,7 +12,9 @@ permalink: /publications/
 4. M. M. K. Peyal, A. Barman, T. Tahiat, Q. M. A. Ul Haque, A. Bal and S. Ahmed, "IoT Based Cost Effective Car Parking Management for Urban Area," 2021 4th International Symposium on Agents, Multi-Agent Systems and Robotics (ISAMSR), 2021, pp. 70-75, doi: 10.1109/ISAMSR53229.2021.9567826.
 5. A.Bal, N. Sur and J.F.C. Nuhi, "A comparative performance analysis among Hybrid NOMA Schemes for 5th Generation (5G) and beyond Wireless Communications" 2021 BRAC University, doi: http://hdl.handle.net/10361/14902.
 
-
+<H2>UnderReview</H2>
+1. Machine Learning Algorithm for Spotting 6G Network Penetration of Different Atttacks.
+2. Execution of Downlink STBC-GSSK and STBC-UAV Assisted NOMA for Next Generation Wireless Communication.
 
 
 {% if author.googlescholar %}
