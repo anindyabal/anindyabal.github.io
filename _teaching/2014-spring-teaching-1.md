@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Former Lecturer, Computer Science and Engineering"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Global University Bangladesh"
+date: 02/02/2021 to 12/31/2021
+location: "Barisal, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course Taught
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+1. Signals and Systems (EEE241)
+2. Electromagnetic Waves and Fields (EEE243)
+3. Data and Telecommunications (CSE367)
+4. Parallel and Distributed Systems (CSE407)
+5. Microprocessors (CSE440/EEE412)
+6. Digital System Design (CSE492)
