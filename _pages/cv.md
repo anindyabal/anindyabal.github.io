@@ -35,7 +35,6 @@ Service and leadership
 Memberships
 ======
 - <p><a href="https://anindyabal.github.io/files/A1.pdf" target="_blank">IEEE Member</a></p>
-- <p><a href="https://anindyabal.github.io/files/A2.pdf" target="_blank">IEEE Young Professional</a></p>
 - <p><a href="https://anindyabal.github.io/files/A3.pdf" target="_blank">IEEE Communications Society</a></p>
 - <p><a href="https://anindyabal.github.io/files/A4.pdf" target="_blank">IEEE Signal Processing Society</a></p>
 - <p><a href="https://anindyabal.github.io/files/A5.pdf" target="_blank">IEEE Circuits and Systems Society</a></p>
