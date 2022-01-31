@@ -31,3 +31,11 @@ Service and leadership
 * Student Coordinator, First year advising team (FYAT), BRAC University Bangladesh (Jan. 2017-Dec. 2020)
 * Founder Chair- IEEE Communication Society Chapter Student Branch, BRAC University (Apr. 2018)
 * Best Athlete- BRAC University Carnival (2019)
+
+Memberships
+======
+* - <p><a href="https://anindyabal.github.io/files/A1.pdf" target="_blank">IEEE Member</a></p>
+* - <p><a href="https://anindyabal.github.io/files/A2.pdf" target="_blank">IEEE Young Professional</a></p>
+* - <p><a href="https://anindyabal.github.io/files/A3.pdf" target="_blank">IEEE Communications Society</a></p>
+* - <p><a href="https://anindyabal.github.io/files/A1.pdf" target="_blank">IEEE Signal Processing Society</a></p>
+* - <p><a href="https://anindyabal.github.io/files/A1.pdf" target="_blank">IEEE Circuits and Systems Society</a></p>
